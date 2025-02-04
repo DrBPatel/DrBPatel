@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm a paediatric surgeon, quality improvement lead, and digital health enthusiast. 
+I'm Bhavesh, a paediatric surgeon, quality improvement lead, and digital health enthusiast. 
 
 🔭 I’m currently working on a number of projects to help with the patient journey, education, and streamlinign workflow for junior docs. 
 
